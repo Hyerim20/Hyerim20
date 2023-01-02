@@ -1,6 +1,6 @@
 # Hyerim Kang
 
-I'm **HyoGeun Kim** in **Seoultech**.<p>
+I'm **Hyerim Kang** in **Seoultech**.<p>
   
 ### 🔥 Interest 
 Interest : Computer Vision, Machine Learning, Algorithm, Backend
