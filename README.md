@@ -11,4 +11,7 @@ Interest : Computer Vision, Machine Learning, Algorithm, Backend
 <img sre="https://img.shields.io/badge/-intstargram-yellowgreen"/>
   
   
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)   
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=highcontrast)
+  
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyerim6187)](https://solved.ac/hyerim6187)
