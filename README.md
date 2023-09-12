@@ -19,12 +19,16 @@ Have a nice day😊
 <br/><br/>
   
 ### 🔥 Interest 
-Interest :Algorithm, Backend
+Interest : Working, Singing, Talking, Algorithm
   
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
+### 💻 Experience
+
+
+### 🏆 Career
 
 <img sre="https://img.shields.io/badge/-intstargram-yellowgreen"/>
   
