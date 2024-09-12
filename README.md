@@ -13,6 +13,7 @@ Have a nice day😊
 **🏫 Seoul National Univ. of Science and Technology' Computer Engineering 22'**  
    
 
+
 **Google Developer Student Club Seoultech** 3nd Member <sub>2023/08 - 2024/08</sub>  
 **Tools** 26th <sub>2022/03 - now</sub>
    <br />
