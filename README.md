@@ -2,12 +2,6 @@
 <div align = "center">
 
 <br/>
-<h3>Happy Hyerim</h3><br/>
-Hello, I'm Hyerim.<br/>
-My goal is to make people happy. <br/>
-Have a nice day😊
-
-<br/><br/>
 
 **🎀 강혜림 (Hyerim Kang)**  
 **🏫 Seoul National Univ. of Science and Technology' Computer Engineering 22'**  
